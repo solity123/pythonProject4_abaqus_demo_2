@@ -1,0 +1,8 @@
+ Abaqus/Standard Learning Edition 2025                  DATE 09-8ÔÂ-2025 TIME 13:55:53
+ SUMMARY OF JOB INFORMATION:
+ STEP  INC ATT SEVERE EQUIL TOTAL  TOTAL      STEP       INC OF       DOF    IF
+               DISCON ITERS ITERS  TIME/    TIME/LPF    TIME/LPF    MONITOR RIKS
+               ITERS               FREQ
+   1     1   1     0     1     1  1.00       1.00       1.000     
+                          
+ THE ANALYSIS HAS COMPLETED SUCCESSFULLY
